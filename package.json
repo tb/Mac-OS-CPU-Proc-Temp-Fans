@@ -1,0 +1,19 @@
+{
+  "name": "cpu-tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "dependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-plugin-transform-object-rest-spread": "^6.20.2",
+    "babel-preset-es2015": "^6.18.0",
+    "elasticsearch": "^12.1.3",
+    "lodash": "^4.17.3",
+    "os-usage": "tb/os-usage",
+    "rxjs": "^5.0.2",
+    "smc": "tb/node-smc"
+  }
+}
