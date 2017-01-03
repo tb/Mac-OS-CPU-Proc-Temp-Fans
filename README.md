@@ -12,8 +12,8 @@ brew services start kibana
 ## Starting CPU Tracker
 
 ```sh
-yarn install
-yarn start
+npm install
+npm start
 ```
 
 ## Starting and configuring Kibana
