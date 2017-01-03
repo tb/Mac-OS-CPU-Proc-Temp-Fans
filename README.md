@@ -13,7 +13,7 @@ brew services start kibana
 
 ```sh
 yarn install
-npm start
+yarn start
 ```
 
 ## Starting and configuring Kibana
